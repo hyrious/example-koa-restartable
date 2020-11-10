@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "dependencies": {
+        "chokidar": "^3.4.3",
+        "http-terminator": "^2.0.3",
+        "koa": "^2.13.0"
+    }
+}
